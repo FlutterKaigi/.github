@@ -4,4 +4,4 @@
 
 ## Social
 
-[Twitter](https://twitter.com/FlutterKaigi)
+[Twitter](https://twitter.com/FlutterKaigi) / [Medium](https://medium.com/flutterkaigi)
