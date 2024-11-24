@@ -1,11 +1,7 @@
-<a href="https://flutterkaigi.jp/2022"><img height="56" alt="FlutterKaigi logo" src="https://github.com/FlutterKaigi/.github/blob/main/flutterkaigi-navbar_logo.svg?sanitize=true"></a>
+<div align="center">
 
-> [FlutterKaigi 2022](https://flutterkaigi.jp/2022) is the technical conference held in Japan, mainly dealing with Flutter.
+<img src="../assets/cover.png" alt="">
 
-<a href="https://flutterkaigi.jp/2021"><img height="56" alt="FlutterKaigi logo" src="https://github.com/FlutterKaigi/.github/blob/main/flutterkaigi-navbar_logo.svg?sanitize=true"></a>
+[Website](https://flutterkaigi.jp/) ・ [Blog](https://medium.com/flutterkaigi) ・ [Events](https://flutterkaigi.connpass.com/) ・ [X](https://x.com/FlutterKaigi) ・ [YouTube](https://www.youtube.com/@flutterkaigi) ・ [Org](https://association.flutterkaigi.jp/)　・　[Guideline](https://docs.flutterkaigi.jp/)
 
-> [FlutterKaigi 2021](https://flutterkaigi.jp/2021) is the first technical conference held in Japan, mainly dealing with Flutter.
-
-## Social
-
-[Twitter](https://twitter.com/FlutterKaigi) / [Medium](https://medium.com/flutterkaigi)
+</div>
